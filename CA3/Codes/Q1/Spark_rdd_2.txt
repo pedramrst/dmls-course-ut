@@ -1,0 +1,10 @@
+Ahvāz,Bābol,Fīrūzābād,Kermān,Marāgheh,Qom,Qāyen,Rasht,Sārī,Tehrān,Zāhedān
+Bam,Dāmghān,Kāzerūn,Marāgheh,Qazvīn,Rasht,Shūshtar,Sārī,Yesuj,Āmol
+Dezfūl,Eṣfahān,Fīrūzābād,Gorgān,Hamadan,Marāgheh,Yesuj,Zanjān,Āmol
+Dāmghān,Eṣfahān,Fīrūzābād,Kermānshāh,Kāshān,Rasht,Sanandaj,Zanjān,Īlām
+Behbehān,Dārāb,Khorramābād,Khoy,Kāzerūn,Mahābād,Rasht
+Fīrūzābād,Khoy,Mashhad,MasjedSoleymān,Neyshābūr,Sārī,Tabrīz
+Kermān,Khorramshahr,Kāshān,Orūmīyeh,Sārī,Yesuj,Ābādān,Āmol
+Borūjerd,Khorramshahr,Marāgheh,Qūchān,Rasht,Sanandaj,Semnān,ShahrKord,Sārī,Āmol
+Dāmghān,Kermān,Marāgheh,Shīrāz,Tabrīz,Tehrān,Ṭāq-eBostān
+Ardabīl,BandarAnzalī,Rasht,Sārī,Yazd,Yesuj,Zāhedān,Āmol
